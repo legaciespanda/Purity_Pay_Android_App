@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Purity Pay</string>
+    <string name="nt_offline">You\'re offline</string>
+    <string name="nt_settings">TURN ON DATA</string>
+    <string name="nt_btn_retry">RETRY</string>
+    <string name="no_internet_message">To use Purity Pay, turn on mobile data or connect to Wi-Fi</string>
+
 </resources>
